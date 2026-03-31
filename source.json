@@ -1,28 +1,26 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
-    "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+  "name": "Chimera Hair Master (English)",
+  "id": "com.resurrxction.chimera-en",
+  "url": "https://resurrxction.github.io/vpm-listing/index.json",
+  "author": "resurrxction",
+  "description": "English translation of Chimera Hair Master and Mask Creation Tool for VRChat",
+  "infoLink": {
+    "url": "https://github.com/resurrxction/vpm-listing",
+    "type": "Source"
+  },
+  "githubRepos": [],
+  "packages": [
+    {
+      "id": "com.nekoare.chimera-hair-master-en",
+      "releases": [
+        "https://github.com/resurrxction/chimera-hair-master-en/releases/download/v1.2.4/com.nekoare.chimera-hair-master-en-1.2.4.zip"
+      ]
     },
-    "description":"Example listing of VRChat packages",
-    "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
-    },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
-    ]
+    {
+      "id": "com.nekoare.mask-creation-tool-en",
+      "releases": [
+        "https://github.com/resurrxction/chimera-hair-master-en/releases/download/mask-v1.1.1/com.nekoare.mask-creation-tool-en-1.1.1.zip"
+      ]
+    }
+  ]
 }
