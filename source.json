@@ -2,7 +2,10 @@
   "name": "Chimera Hair Master (English)",
   "id": "com.resurrxction.chimera-en",
   "url": "https://resurrxction.github.io/chimera-hair-master-en/index.json",
-  "author": "resurrxction",
+  "author": {
+    "name": "resurrxction",
+    "url": "https://github.com/resurrxction/chimera-hair-master-en"
+  },
   "description": "English translation of Chimera Hair Master and Mask Creation Tool for VRChat",
   "infoLink": {
     "url": "https://github.com/resurrxction/chimera-hair-master-en",
